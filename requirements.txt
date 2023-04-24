@@ -19,4 +19,4 @@ pandas==1.4.3
 pandocfilters==1.5.0
 python-dateutil==2.8.2
 Openpyxl==3.0.10
-CV2
+opencv-python-headless==4.5.1.48
